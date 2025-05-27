@@ -1,4 +1,4 @@
-# 👋 Halo! Saya [Nama Kamu]
+# 👋 Halo! Saya Zahran Alvan
 
 Selamat datang di profil GitHub saya! Saya adalah mahasiswa Teknik Informatika di Institut Teknologi Bandung, Jatinangor. Saya tertarik pada dunia pengembangan Perangkat Lunak, Algoritma, dan Artificial Intelligence.
 
