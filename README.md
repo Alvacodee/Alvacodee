@@ -1,6 +1,6 @@
 # 👋 Halo! Saya Zahran Alvan
 
-Selamat datang di profil GitHub saya! Saya adalah mahasiswa Teknik Informatika di Institut Teknologi Bandung. Saya tertarik pada dunia pengembangan Perangkat Lunak, Algoritma, dan Artificial Intelligence.
+Selamat datang di profil GitHub saya! Saya adalah mahasiswa Informatika yang sedang mendalami Data Science, Artificial Intelligence/Machine Learning, serta Deep Learning. Minat utama saya terletak pada bagaimana data dapat diolah menjadi insight berharga dan diintegrasikan dengan model kecerdasan buatan untuk mendukung pengambilan keputusan. Selain itu, saya juga tertarik dengan Software Engineering sebagai fondasi dalam membangun aplikasi yang robust, scalable, dan maintainable. Kombinasi dari data-driven approach dan software engineering menjadi fokus saya dalam berkarya di bidang teknologi.
 
 ## 🧠 Sedang Dipelajari
 - Algoritma dan Struktur Data
