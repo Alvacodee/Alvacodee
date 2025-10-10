@@ -4,7 +4,7 @@ Selamat datang di profil GitHub saya! Saya adalah mahasiswa Informatika yang sed
 
 ## 🧠 Sedang Dipelajari
 - Algoritma dan Struktur Data
-- Pemrograman Python, C, dan Prolog
+- Pemrograman Python, C, Prolog, Haskell, dan Java
 - Pengembangan Web (HTML, CSS, JavaScript)
 
 
