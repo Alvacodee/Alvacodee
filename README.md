@@ -12,7 +12,9 @@
 
 <img align="right" height="150" src="![alt text](image.png)"  />
 
-Selamat datang di profil GitHub saya! Saya adalah mahasiswa Informatika yang sedang mendalami Data Science, Artificial Intelligence/Machine Learning, serta Deep Learning. Minat utama saya terletak pada bagaimana data dapat diolah menjadi insight berharga dan diintegrasikan dengan model kecerdasan buatan untuk mendukung pengambilan keputusan. Selain itu, saya juga tertarik dengan Software Engineering sebagai fondasi dalam membangun aplikasi yang robust, scalable, dan maintainable. Kombinasi dari data-driven approach dan software engineering menjadi fokus saya dalam berkarya di bidang teknologi.
+Welcome to my GitHub profile! I'm an Informatics student who interested in exploring Data Science, Artificial Intelligence/Machine Learning, and Deep Learning. My primary interest lies in how data can be processed into valuable insights and integrated with artificial intelligence models to support decision-making. Furthermore, I'm also interested in Software Engineering as a foundation for building robust, scalable, and maintainable applications. The combination of a data-driven approach and software engineering is my focus in my work in the technology field.
+
+### 💻 Language
 
 ### 💻 Language
 ###
@@ -39,10 +41,10 @@ Selamat datang di profil GitHub saya! Saya adalah mahasiswa Informatika yang sed
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
-### 🧠 Sedang Dipelajari
-- Algoritma dan Struktur Data
-- Pemrograman Python, C, Prolog, Haskell, dan Java
-- Pengembangan Web (HTML, CSS, JavaScript) 
+### 🧠 Study
+- Data Structures and Algorithms
+- Python, C, Prolog, Haskell, and Java Programming
+- Web Development (HTML, CSS, JavaScript) 
 
 ### 📂 Portofolio
 - 📌 **Portal Parkir Otomatis (GateX)**: <!--Program Portal Parkir Otomatis yang bernama GateX, sebuah simulasi sistem portal parkir otomatis yang dibuat menggunakan bahasa Python. Program ini mensimulasikan proses masuk dan keluar kendaraan dari area parkir, lengkap dengan pencatatan waktu, validasi kapasitas parkir, dan pembukaan portal secara otomatis berdasarkan kondisi. Proyek ini dirancang sebagai dasar dari sistem parkir otomatis berbasis perangkat lunak sebelum diintegrasikan dengan perangkat keras. -->
