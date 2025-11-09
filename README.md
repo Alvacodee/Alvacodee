@@ -38,6 +38,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
+### 📂 Portofolio
+- 📌 **Portal Parkir Otomatis (GateX)**: Program Portal Parkir Otomatis yang bernama GateX, sebuah simulasi sistem portal parkir otomatis yang dibuat menggunakan bahasa Python. Program ini mensimulasikan proses masuk dan keluar kendaraan dari area parkir, lengkap dengan pencatatan waktu, validasi kapasitas parkir, dan pembukaan portal secara otomatis berdasarkan kondisi. Proyek ini dirancang sebagai dasar dari sistem parkir otomatis berbasis perangkat lunak sebelum diintegrasikan dengan perangkat keras.
+- 📌 **Sistem Manajemen Rumah Sakit (Nimons)**
+- 📌 **Game Pokemon**
+- 📌 **GDGoC 2024**
+- 📌 **Matrix Calculator (Will be Posted Soon)**
+- 📌 **EduHub (on progress)**
+
 
 ### ☕ Connect With Me
 ###
