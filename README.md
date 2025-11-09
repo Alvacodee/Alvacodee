@@ -41,16 +41,12 @@ Welcome to my GitHub profile! I'm an Informatics student who interested in explo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
-<<<<<<< HEAD
+
 ### 🧠 Study
 - Data Structures and Algorithms
 - Python, C, Prolog, Haskell, and Java Programming
-=======
-### 🧠 Sedang Dipelajari
-- Algoritma dan Struktur Data
-- Pemrograman Python, C, Prolog, Haskell, dan Java
->>>>>>> 9401b051fa29ceee56d7614c6cb1af10b9e16e76
 - Web Development (HTML, CSS, JavaScript) 
+
 
 ### 📂 Portofolio
 - 📌 **Portal Parkir Otomatis (GateX)**: <!--Program Portal Parkir Otomatis yang bernama GateX, sebuah simulasi sistem portal parkir otomatis yang dibuat menggunakan bahasa Python. Program ini mensimulasikan proses masuk dan keluar kendaraan dari area parkir, lengkap dengan pencatatan waktu, validasi kapasitas parkir, dan pembukaan portal secara otomatis berdasarkan kondisi. Proyek ini dirancang sebagai dasar dari sistem parkir otomatis berbasis perangkat lunak sebelum diintegrasikan dengan perangkat keras. -->
