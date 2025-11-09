@@ -41,9 +41,15 @@ Welcome to my GitHub profile! I'm an Informatics student who interested in explo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
+<<<<<<< HEAD
 ### 🧠 Study
 - Data Structures and Algorithms
 - Python, C, Prolog, Haskell, and Java Programming
+=======
+### 🧠 Sedang Dipelajari
+- Algoritma dan Struktur Data
+- Pemrograman Python, C, Prolog, Haskell, dan Java
+>>>>>>> 9401b051fa29ceee56d7614c6cb1af10b9e16e76
 - Web Development (HTML, CSS, JavaScript) 
 
 ### 📂 Portofolio
@@ -51,7 +57,7 @@ Welcome to my GitHub profile! I'm an Informatics student who interested in explo
 - 📌 **Sistem Manajemen Rumah Sakit (Nimons)**
 - 📌 **Game Pokemon**
 - 📌 **GDGoC 2024**
-- 📌 **Matrix Calculator (Will be Posted Soon)**
+- 📌 **Matrix Calculator (Will be Push Soon)**
 - 📌 **EduHub (on progress)**
 
 
