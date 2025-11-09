@@ -1,5 +1,7 @@
 # 👋 Halo! Saya Zahran Alvan
 
+![Alvacodee](img/WhatsApp%20Image%202025-11-09%20at%2017.56.16_2dd4367b.jpg)
+
 Selamat datang di profil GitHub saya! Saya adalah mahasiswa Informatika yang sedang mendalami Data Science, Artificial Intelligence/Machine Learning, serta Deep Learning. Minat utama saya terletak pada bagaimana data dapat diolah menjadi insight berharga dan diintegrasikan dengan model kecerdasan buatan untuk mendukung pengambilan keputusan. Selain itu, saya juga tertarik dengan Software Engineering sebagai fondasi dalam membangun aplikasi yang robust, scalable, dan maintainable. Kombinasi dari data-driven approach dan software engineering menjadi fokus saya dalam berkarya di bidang teknologi.
 
 ## 🧠 Sedang Dipelajari
