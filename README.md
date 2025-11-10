@@ -42,6 +42,10 @@ Welcome to my GitHub profile! I'm an Informatics student who interested in explo
 
 ### 🧠 Study
 - Data Structures and Algorithms
+- Probability and Statistics
+- Geometric and Linear Algebra
+- Software Engineering
+- Operating System
 - Python, C, Prolog, Haskell, and Java Programming
 - Web Development (HTML, CSS, JavaScript) 
 
