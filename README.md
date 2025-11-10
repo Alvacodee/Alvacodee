@@ -15,8 +15,6 @@
 Welcome to my GitHub profile! I'm an Informatics student who interested in exploring Data Science, Artificial Intelligence/Machine Learning, and Deep Learning. My primary interest lies in how data can be processed into valuable insights and integrated with artificial intelligence models to support decision-making. Furthermore, I'm also interested in Software Engineering as a foundation for building robust, scalable, and maintainable applications. The combination of a data-driven approach and software engineering is my focus in my work in the technology field.
 
 ### 💻 Language
-
-### 💻 Language
 ###
 
 <div align="left">
@@ -52,7 +50,7 @@ Welcome to my GitHub profile! I'm an Informatics student who interested in explo
 - 📌 **Portal Parkir Otomatis (GateX)**: <!--Program Portal Parkir Otomatis yang bernama GateX, sebuah simulasi sistem portal parkir otomatis yang dibuat menggunakan bahasa Python. Program ini mensimulasikan proses masuk dan keluar kendaraan dari area parkir, lengkap dengan pencatatan waktu, validasi kapasitas parkir, dan pembukaan portal secara otomatis berdasarkan kondisi. Proyek ini dirancang sebagai dasar dari sistem parkir otomatis berbasis perangkat lunak sebelum diintegrasikan dengan perangkat keras. -->
 - 📌 **Sistem Manajemen Rumah Sakit (Nimons)**
 - 📌 **Game Pokemon**
-- 📌 **GDGoC 2024**
+- 📌 **GDGoC 2024 (Will be Push Soon)**
 - 📌 **Matrix Calculator (Will be Push Soon)**
 - 📌 **EduHub (on progress)**
 
