@@ -12,7 +12,7 @@
 
 <img align="right" height="150" src="![alt text](image.png)"  />
 
-Welcome to my GitHub profile! I'm an Informatics student who interested in exploring Data Science, Artificial Intelligence/Machine Learning, and Deep Learning. My primary interest lies in how data can be processed into valuable insights and integrated with artificial intelligence models to support decision-making. Furthermore, I'm also interested in Software Engineering as a foundation for building robust, scalable, and maintainable applications. The combination of a data-driven approach and software engineering is my focus in my work in the technology field.
+Welcome to my GitHub profile! I'm an Computer Science student who interested in exploring Data Science, Artificial Intelligence/Machine Learning, and Deep Learning. My primary interest lies in how data can be processed into valuable insights and integrated with artificial intelligence models to support decision-making. Furthermore, I'm also interested in Software Engineering as a foundation for building robust, scalable, and maintainable applications. The combination of a data-driven approach and software engineering is my focus in my work in the technology field.
 
 ### 💻 Language
 ###
