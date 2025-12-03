@@ -56,7 +56,10 @@ Welcome to my GitHub profile! I'm an Computer Science student who interested in 
 - 📌 **Game Pokemon**
 - 📌 **GDGoC AI Hands On**
 - 📌 **Matrix Calculator**
+- 📌 **Grodit (Reddit cloning)**
+- 📌 **Data Analysis - Probability and Statistics**
 - 📌 **EduHub**
+- 📌 **EigenPustaka | E-Library**
 
 
 ### ☕ Connect With Me
