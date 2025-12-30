@@ -40,14 +40,15 @@ Welcome to my GitHub profile! I'm an Computer Science student who interested in 
 </div>
 
 
-### 🧠 Study
-- Data Structures and Algorithms
-- Probability and Statistics
-- Geometric and Linear Algebra
-- Software Engineering
-- Operating System
-- Python, C, Prolog, Haskell, and Java Programming
-- Web Development (HTML, CSS, JavaScript) 
+### 🧠 Active Course
+- OOP
+- Algorithm Strategy
+- Formal Language Theory and Automata
+- Computer Network
+- Database
+- Project Management
+- Python, C/C++, Prolog, Haskell, and Java Programming
+- Web Development (React.js, Next.js, Tailwind, Go, PostgreSQL, Docker) 
 
 
 ### 📂 Portofolio
