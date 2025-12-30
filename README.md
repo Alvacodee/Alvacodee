@@ -67,14 +67,15 @@ Welcome to my GitHub profile! I'm an Computer Science student who interested in 
 ###
 
 <div align="left">
-  <a href="https://instagram.com/zahran_alvan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://linkedin.com/in/zahran-alvan-putra-winarko" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:zahranalvan2901@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/zahran-alvan-putra-winarko" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  
+  <a href="https://instagram.com/zahran_alvan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
