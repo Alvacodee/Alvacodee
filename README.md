@@ -48,17 +48,19 @@ Welcome to my GitHub profile! I'm an Computer Science student who interested in 
 - Database
 - Project Management
 - Python, C/C++, Prolog, Haskell, and Java Programming
-- Web Development (React.js, Next.js, Tailwind, Go, PostgreSQL, Docker) 
+- Web Development (React.js, Next.js, Tailwind, Go, PostgreSQL, Docker, Vercell, Railway, Supabase) 
 
 
 ### 📂 Portfolio
-- 📌 **Portal Parkir Otomatis (GateX)**
-- 📌 **Game Pokemon**
+- 📌 **Alvacodee Web | Web Portfolio**
+- 📌 **GateX | Portal Parkir Otomatis**
+- 📌 **Nimons Hospital | Hospital Management System**
+- 📌 **Pokemon Game**
 - 📌 **GDGoC AI Hands On**
 - 📌 **Matrix Calculator**
-- 📌 **Groddit (Reddit cloning)**
-- 📌 **Data Analysis - Probability and Statistics**
-- 📌 **EduHub**
+- 📌 **Groddit | Reddit cloning**
+- 📌 **Data Analysis | Probability and Statistics**
+- 📌 **EduHub | LMS System**
 - 📌 **EigenPustaka | E-Library**
 - 📌 **DUITKUDW | Finance Tracker**
 
@@ -80,10 +82,3 @@ Welcome to my GitHub profile! I'm an Computer Science student who interested in 
 </div>
 
 ###
-
-<!-- ###
-
-<!---
-Alvacodee/Alvacodee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
