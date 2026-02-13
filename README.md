@@ -51,9 +51,8 @@ Welcome to my GitHub profile! I'm an Computer Science student who interested in 
 - Web Development (React.js, Next.js, Tailwind, Go, PostgreSQL, Docker) 
 
 
-### 📂 Portofolio
-- 📌 **Portal Parkir Otomatis (GateX)**: <!--Program Portal Parkir Otomatis yang bernama GateX, sebuah simulasi sistem portal parkir otomatis yang dibuat menggunakan bahasa Python. Program ini mensimulasikan proses masuk dan keluar kendaraan dari area parkir, lengkap dengan pencatatan waktu, validasi kapasitas parkir, dan pembukaan portal secara otomatis berdasarkan kondisi. Proyek ini dirancang sebagai dasar dari sistem parkir otomatis berbasis perangkat lunak sebelum diintegrasikan dengan perangkat keras. -->
-- 📌 **Sistem Manajemen Rumah Sakit (Nimons)**
+### 📂 Portfolio
+- 📌 **Portal Parkir Otomatis (GateX)**
 - 📌 **Game Pokemon**
 - 📌 **GDGoC AI Hands On**
 - 📌 **Matrix Calculator**
@@ -61,6 +60,7 @@ Welcome to my GitHub profile! I'm an Computer Science student who interested in 
 - 📌 **Data Analysis - Probability and Statistics**
 - 📌 **EduHub**
 - 📌 **EigenPustaka | E-Library**
+- 📌 **DUITKUDW | Finance Tracker**
 
 
 ### ☕ Connect With Me
