@@ -27,13 +27,9 @@ Always happy to connect with people building meaningful things.
 
 ## Interests
 
+**`Software Engineering · System Design · Data Analysis & Statistical Modeling · Machine Learning, Deep Learning, NLP, Computer Vision · Competitive Programming & Hackathons`**
+
 </div>
-
-- Software Engineering & System Design
-- Data Analysis & Statistical Modeling
-- Machine Learning, Deep Learning, NLP, Computer Vision
-- Competitive Programming & Hackathons
-
 
 ---
 
