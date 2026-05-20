@@ -95,8 +95,8 @@ Always happy to connect with people building meaningful things.
 
 ## Stats
 
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Alvacodee&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvacodee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <!-- <img height="155" src="https://github-readme-stats.vercel.app/api?username=Alvacodee&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvacodee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/> -->
 
   <img src="https://streak-stats.demolab.com?user=Alvacodee&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
