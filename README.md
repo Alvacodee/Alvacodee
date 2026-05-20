@@ -8,7 +8,7 @@
 
 # Zahran Alvan Putra Winarko
 
-**`Software Engineering · DevOps · SRE · Data & AI/ML`**
+**`Software Engineering · DevOps · SRE · Data · AI/ML`**
 
 </div>
 
