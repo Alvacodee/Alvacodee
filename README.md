@@ -27,7 +27,7 @@ Always happy to connect with people building meaningful things.
 
 ## Interests
 
-**`Software Engineering · System Design · Data Analysis & Statistical Modeling · Machine Learning, Deep Learning, NLP, Computer Vision · Competitive Programming & Hackathons`**
+**`Software Engineering · System Design · Data Analysis · Statistical Modeling · Machine Learning · Deep Learning · NLP · Computer Vision · Competitive Programming · Hackathons`**
 
 </div>
 
@@ -149,6 +149,5 @@ Always happy to connect with people building meaningful things.
 
 
 <br>
-
   <img src="https://komarev.com/ghpvc/?username=Alvacodee&color=blue&style=flat-square&label=profile views" alt="Profile Views"/>
 </div>
