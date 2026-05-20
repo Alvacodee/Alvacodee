@@ -148,6 +148,6 @@ Always happy to connect with people building meaningful things.
   </a>
 
 
-<br>
-  <img src="https://komarev.com/ghpvc/?username=Alvacodee&color=blue&style=flat-square&label=profile views" alt="Profile Views"/>
+<!-- <br>
+  <img src="https://komarev.com/ghpvc/?username=Alvacodee&color=blue&style=flat-square&label=profile views" alt="Profile Views"/> -->
 </div>
