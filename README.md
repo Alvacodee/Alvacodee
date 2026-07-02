@@ -147,7 +147,7 @@ Always happy to connect with people building meaningful things.
 
 ## Active Course
 
-`Object-Oriented Programming` · `Algorithm Strategy` · `Formal Language & Automata` · `Computer Networks` · `Database Systems` · `Project Management`
+`Web Application Development` · `Parallel and Distributed Systems` · `Database System` · `Information System` · `Human-Computer Interaction` · `Artificial Intelligence`
 
 </div>
 
