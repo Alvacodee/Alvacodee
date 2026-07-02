@@ -8,7 +8,7 @@
 
 # Zahran Alvan Putra Winarko
 
-**`Software Engineering · DevOps · SRE · Data · AI/ML`**
+**`Software Engineering · SRE · DevOps · Data · AI/ML`**
 
 </div>
 
@@ -27,7 +27,7 @@ Always happy to connect with people building meaningful things.
 
 ## Interests
 
-**`Software Engineering · System Design · Data Analysis · Statistical Modeling · Machine Learning · Deep Learning · NLP · Computer Vision · Competitive Programming · Hackathons`**
+**`Software Engineering · System Design · Data Analysis · Statistical Modeling · Machine Learning · Deep Learning · NLP · Computer Vision · Hackathons`**
 
 </div>
 
