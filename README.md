@@ -8,17 +8,17 @@
 
 # Zahran Alvan Putra Winarko
 
-**`Software Engineering · SRE · DevOps · Data · AI/ML`**
+**`Software Engineering · SRE · AI/ML`**
 
 </div>
 
 ---
 
-I'm a Computer Science student at Institut Teknologi Bandung, fascinated by the intersection of Data, AI, and elegant software architecture.
+I'm a Computer Science student at Institut Teknologi Bandung, fascinated by the intersection of Software Engineering, SRE and AI/ML.
  
-I believe powerful AI deserves a robust foundation. My current focus is mastering Software Engineering fundamentals, DevOps, SRE — from system design to production-ready code — so that intelligent models live inside systems that are not just smart, but truly reliable.
+I believe powerful AI deserves a robust foundation. My current focus is mastering Software Engineering fundamentals, SRE,  from system design to production-ready code, so that intelligent models live inside systems that are not just smart, but truly reliable.
  
-When I'm not building, you'll find me competing in data competitions, writing about what I find interesting, going deep into a rabbit hole I didn't plan to enter, or exploring ideas at the edge of what I know.
+When I'm not building, you'll find me in community, competition, writing about what I find interesting, going deep into a rabbit hole I didn't plan to enter, or exploring ideas at the edge of what I know.
  
 Always happy to connect with people building meaningful things.
 
@@ -27,7 +27,7 @@ Always happy to connect with people building meaningful things.
 
 ## Interests
 
-**`Software Engineering · System Design · Data Analysis · Statistical Modeling · Machine Learning · Deep Learning · NLP · Computer Vision · Hackathons`**
+**`Software Engineering · System Design · AI/ML · Deep Learning · NLP · Computer Vision`**
 
 </div>
 
@@ -126,7 +126,7 @@ Always happy to connect with people building meaningful things.
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## Projects
 
@@ -139,7 +139,7 @@ Always happy to connect with people building meaningful things.
 | **EduHub** | Desktop LMS for teachers & students — quiz, forum, leaderboard across 12 DB tables | Java, JavaFX, SQLite, Maven |
 
 
-</div>
+</div> -->
 
 ---
 
